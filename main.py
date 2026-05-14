@@ -1,6 +1,6 @@
 from helloworld_print import helloworld
 
-print_okak = input("Write your penis: ")
+print_okak = input("Write your length banana: ")
 six_seven = helloworld(print_okak)
 
 if six_seven == "67":
